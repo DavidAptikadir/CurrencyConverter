@@ -1,0 +1,14 @@
+US Dollar (USD)
+Euro [1 EUR = 1.17 USD]
+Japanese Yen [1 JPY = 0.0095 USD]
+Pound Sterling [1 GBP = 1.29 USD]
+Australian Dollar [1 AUD = 0.71 USD]
+Canadian Dollar [1 CAD = 0.76 USD]
+Swiss Franc [1 CHF = 1.09 USD]
+Chinese Renminbi [1 CNY = 0.15 USD]
+Swedish Krona [1 SEK = 0.11 USD]
+New Zealand Dollar [1 NZD = 0.66]
+Russian Ruble -[1 RUB=0.014 USD];
+
+
+
